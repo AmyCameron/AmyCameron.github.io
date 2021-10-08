@@ -4,7 +4,7 @@
 }
 
 .portfolio-header .mdl-layout__header-row {
-  padding: 0;
+  padding: 100;
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
