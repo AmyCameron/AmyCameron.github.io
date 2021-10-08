@@ -45,10 +45,11 @@
 .portfolio-navigation-row {
   background-color: rgb(255, 187, 0);
   text-transform: uppercase;
-  height: 45px;
+  height: 5px;
 }
 
 .portfolio-navigation-row  .mdl-navigation {
+  background-color: rgb(255, 187, 0);
   text-align: center;
   max-width: 900px;
   width: 100%;
@@ -62,7 +63,7 @@
 }
 
 .portfolio-header .mdl-layout__drawer-button {
-    background-color: rgba(60, 255, 0, 0.44);
+    background-color: rgb(60, 255, 0);
 }
 
 .portfolio-navigation-row .is-active {
